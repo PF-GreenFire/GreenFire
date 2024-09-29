@@ -99,6 +99,11 @@
         <img src="https://github.com/9bfish8.png" width="100px;" alt="9bfish8의 프로필 사진"/><br />
         <sub><b>9bfish8</b></sub>
       </a>
+    </td> <td align="center">
+      <a href="https://github.com/ddalla0425">
+        <img src="https://github.com/ddalla0425.png" width="100px;" alt="ddalla0425의 프로필 사진"/><br />
+        <sub><b>ddalla0425</b></sub>
+      </a>
     </td>
   </tr>
 </table>
